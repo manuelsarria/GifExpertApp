@@ -1,4 +1,5 @@
 # GifExpertApp
+proyect gif expert in react
 
 # install
 yarn
